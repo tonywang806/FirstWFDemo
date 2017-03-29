@@ -1,0 +1,9 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs/WF45GettingStartedTutorial/v15
+/NumberGuessWorkflowActivities/bin/Debug
+/NumberGuessWorkflowActivities/obj/Debug
+/NumberGuessWorkflowHost/bin/Debug
+/NumberGuessWorkflowHost/obj/x86/Debug
